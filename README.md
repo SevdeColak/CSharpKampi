@@ -29,4 +29,7 @@ Son projede, geri değer döndüren metotlar ile çalıştım. Kullanıcıdan al
 ## ✨ Proje 9: Veritabanı Tabanlı Ürün-Kategori Bilgi Sistemi
 Bu projede veritabanı bağlantısı kurmayı ve veritabanından veri çekmeyi öğrendim. Kullanıcıdan tablo seçimini alarak, ilgili bilgileri ekran üzerinde listeleyen bir uygulama geliştirdim. SqlConnection ve SqlCommand sınıflarıyla veritabanına bağlanıp, sorgular çalıştırmayı deneyimledim. Bu projeyle birlikte veritabanı işlemleri ve veri akışı hakkında önemli bilgiler edindim. 💾
 
+## ✨ Proje 10: Menü Sipariş İşlem Paneli
+Bu projede, temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirerek bir veritabanı ile etkileşim sağladım. SQL bağlantısı kullanarak ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlemlerini uyguladım. Proje sayesinde SQL komutlarıyla veritabanına veri kaydetme ve sorgulama işlemlerini pekiştirmiş oldum. Bu kapsamda, ürün bilgilerini düzenleyerek daha dinamik bir yapı elde etmeyi öğrendim. 📊
+
 Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
