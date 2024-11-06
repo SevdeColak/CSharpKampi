@@ -1,6 +1,6 @@
 # 🚀 C# EĞİTİM KAMPI PROJELERİ
 
-Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 8 projeyi içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu. Aşağıda her projeye dair teknik detayları bulabilirsiniz:
+Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 10 projeyi içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu. Aşağıda her projeye dair teknik detayları bulabilirsiniz:
 
 ## ✨ Proje 1: Merhaba Dünya!
 Bu projede, konsola yazı yazdırmayı öğrendim. Console.WriteLine() komutu ile temel yazdırma işlemlerini keşfettim ve bir C# programının yapısını kavradım. 🌍
@@ -25,5 +25,8 @@ Bu projede, foreach döngüsünü daha yakından inceleyip bir sınav sistemi si
 
 ## ✨ Proje 8: Geriye Değer Döndüren Fonksiyonlar
 Son projede, geri değer döndüren metotlar ile çalıştım. Kullanıcıdan aldığım verileri işleyip sonuçları döndüren fonksiyonlar oluşturdum. Bu proje ile daha karmaşık işlemleri öğrenmiş oldum. 🎗️
+
+## ✨ Proje 9: Veritabanı Tabanlı Ürün-Kategori Bilgi Sistemi
+Bu projede veritabanı bağlantısı kurmayı ve veritabanından veri çekmeyi öğrendim. Kullanıcıdan tablo seçimini alarak, ilgili bilgileri ekran üzerinde listeleyen bir uygulama geliştirdim. SqlConnection ve SqlCommand sınıflarıyla veritabanına bağlanıp, sorgular çalıştırmayı deneyimledim. Bu projeyle birlikte veritabanı işlemleri ve veri akışı hakkında önemli bilgiler edindim. 💾
 
 Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
